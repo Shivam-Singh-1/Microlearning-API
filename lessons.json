@@ -1,0 +1,346 @@
+{
+  "topics": [
+    {
+      "id": "space-astronomy",
+      "title": "Space & Astronomy",
+      "description": "Fascinating facts about the universe, planets, and cosmic phenomena",
+      "lessons": [
+        {
+          "id": "solar-system",
+          "title": "Solar System Wonders",
+          "description": "Amazing facts about our solar system",
+          "facts": [
+            {
+              "id": "venus-day",
+              "title": "Venus Has the Longest Day",
+              "content": "A day on Venus (243 Earth days) is longer than its year (225 Earth days). This means Venus completes an orbit around the Sun before it finishes one rotation on its axis!",
+              "tags": ["planets", "time", "rotation"]
+            },
+            {
+              "id": "jupiter-moons",
+              "title": "Jupiter's Moon Count",
+              "content": "Jupiter has 95 confirmed moons! The four largest - Io, Europa, Ganymede, and Callisto - were discovered by Galileo in 1610 and are called the Galilean moons.",
+              "tags": ["jupiter", "moons", "galileo"]
+            },
+            {
+              "id": "saturn-density",
+              "title": "Saturn Would Float in Water",
+              "content": "Saturn is the least dense planet in our solar system. Its density is so low (0.687 g/cm³) that it would actually float if you could find a bathtub big enough!",
+              "tags": ["saturn", "density", "physics"]
+            }
+          ]
+        },
+        {
+          "id": "deep-space",
+          "title": "Deep Space Mysteries",
+          "description": "Incredible facts about distant galaxies and cosmic phenomena",
+          "facts": [
+            {
+              "id": "black-hole-spaghetti",
+              "title": "Spaghettification in Black Holes",
+              "content": "If you fell into a black hole, the gravitational difference between your head and feet would stretch you out like spaghetti. This process is actually called 'spaghettification' by scientists!",
+              "tags": ["black-holes", "gravity", "physics"]
+            },
+            {
+              "id": "neutron-star-weight",
+              "title": "Neutron Stars Are Incredibly Dense",
+              "content": "A teaspoon of neutron star material would weigh about 6 billion tons on Earth - that's roughly the weight of Mount Everest compressed into a teaspoon!",
+              "tags": ["neutron-stars", "density", "mass"]
+            },
+            {
+              "id": "light-speed-distance",
+              "title": "The Observable Universe's Edge",
+              "content": "The observable universe is about 93 billion light-years across, even though it's only 13.8 billion years old. This is because space itself has been expanding since the Big Bang.",
+              "tags": ["universe", "expansion", "light-years"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ocean-marine",
+      "title": "Ocean & Marine Life",
+      "description": "Explore the mysteries and wonders of our planet's oceans",
+      "lessons": [
+        {
+          "id": "deep-sea-creatures",
+          "title": "Deep Sea Creatures",
+          "description": "Bizarre and fascinating life forms from the ocean depths",
+          "facts": [
+            {
+              "id": "blobfish-pressure",
+              "title": "The Blobfish's Secret",
+              "content": "The blobfish only looks 'blobby' when brought to the surface. At its natural depth of 2,000-4,000 feet, the extreme pressure keeps it looking like a normal fish!",
+              "tags": ["blobfish", "pressure", "adaptation"]
+            },
+            {
+              "id": "octopus-hearts",
+              "title": "Octopuses Have Three Hearts",
+              "content": "Octopuses have three hearts: two pump blood to the gills, and one pumps blood to the rest of the body. The main heart stops beating when they swim, which is why they prefer crawling.",
+              "tags": ["octopus", "anatomy", "circulation"]
+            },
+            {
+              "id": "anglerfish-light",
+              "title": "Anglerfish's Living Light",
+              "content": "The light on an anglerfish's lure isn't produced by the fish itself, but by bioluminescent bacteria living in a symbiotic relationship with the fish.",
+              "tags": ["anglerfish", "bioluminescence", "symbiosis"]
+            }
+          ]
+        },
+        {
+          "id": "ocean-facts",
+          "title": "Ocean Phenomena",
+          "description": "Amazing facts about ocean currents, tides, and marine ecosystems",
+          "facts": [
+            {
+              "id": "ocean-unexplored",
+              "title": "Most Ocean Remains Unexplored",
+              "content": "We've explored less than 5% of our oceans. We know more about the surface of Mars than we do about the deep sea on our own planet!",
+              "tags": ["exploration", "deep-sea", "mystery"]
+            },
+            {
+              "id": "whale-song-distance",
+              "title": "Whale Songs Travel Far",
+              "content": "Blue whale songs can travel up to 1,000 miles underwater. Their low-frequency calls are so powerful they can be detected by hydrophones across entire ocean basins.",
+              "tags": ["whales", "communication", "sound"]
+            },
+            {
+              "id": "great-barrier-reef",
+              "title": "The Great Barrier Reef from Space",
+              "content": "The Great Barrier Reef is the only living structure visible from space. It's actually made up of nearly 3,000 individual reefs and stretches over 1,400 miles!",
+              "tags": ["coral-reef", "australia", "biodiversity"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "human-body",
+      "title": "Human Body",
+      "description": "Surprising facts about human anatomy and physiology",
+      "lessons": [
+        {
+          "id": "brain-nervous-system",
+          "title": "Brain & Nervous System",
+          "description": "Fascinating facts about the human brain and nervous system",
+          "facts": [
+            {
+              "id": "brain-energy",
+              "title": "Your Brain Uses 20% of Your Energy",
+              "content": "Despite weighing only about 2% of your body weight, your brain consumes roughly 20% of your daily energy intake. It's like a high-performance computer that never shuts down!",
+              "tags": ["brain", "energy", "metabolism"]
+            },
+            {
+              "id": "neurons-connections",
+              "title": "Billions of Neural Connections",
+              "content": "Your brain has approximately 86 billion neurons, and each neuron can form thousands of connections with other neurons, creating trillions of neural pathways.",
+              "tags": ["neurons", "connections", "complexity"]
+            },
+            {
+              "id": "brain-no-pain",
+              "title": "The Brain Feels No Pain",
+              "content": "The brain itself has no pain receptors, which is why brain surgery can sometimes be performed while the patient is awake. Headaches come from surrounding tissues, not the brain itself.",
+              "tags": ["brain", "pain", "surgery"]
+            }
+          ]
+        },
+        {
+          "id": "body-systems",
+          "title": "Amazing Body Systems",
+          "description": "Incredible facts about various body systems and functions",
+          "facts": [
+            {
+              "id": "heart-lifetime-beats",
+              "title": "Your Heart's Lifetime Marathon",
+              "content": "Your heart beats about 100,000 times per day and roughly 35 million times per year. Over an average lifetime, that's about 2.5 billion heartbeats!",
+              "tags": ["heart", "circulation", "lifetime"]
+            },
+            {
+              "id": "stomach-acid-strength",
+              "title": "Stomach Acid is Incredibly Strong",
+              "content": "Your stomach acid (hydrochloric acid) has a pH of 1-2, making it strong enough to dissolve metal. Your stomach lining completely regenerates every 3-5 days to protect itself!",
+              "tags": ["stomach", "acid", "digestion"]
+            },
+            {
+              "id": "bone-strength",
+              "title": "Bones Are Stronger Than Steel",
+              "content": "Pound for pound, human bone is about 5 times stronger than steel. A cubic inch of bone can withstand loads of at least 19,000 pounds - that's roughly the weight of five pickup trucks!",
+              "tags": ["bones", "strength", "structure"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ancient-history",
+      "title": "Ancient History",
+      "description": "Fascinating facts from ancient civilizations and historical periods",
+      "lessons": [
+        {
+          "id": "ancient-egypt",
+          "title": "Ancient Egypt",
+          "description": "Mysteries and marvels of ancient Egyptian civilization",
+          "facts": [
+            {
+              "id": "pyramid-construction-time",
+              "title": "Pyramid Construction Speed",
+              "content": "The Great Pyramid of Giza was built in approximately 20 years, requiring workers to place a 2.5-ton stone block every 2-3 minutes during a 10-hour workday. That's incredible precision and organization!",
+              "tags": ["pyramids", "construction", "engineering"]
+            },
+            {
+              "id": "cleopatra-timeline",
+              "title": "Cleopatra and the Pyramids",
+              "content": "Cleopatra lived closer in time to the Moon landing (1969) than to the construction of the Great Pyramid of Giza. The pyramid was already over 2,500 years old when she was born!",
+              "tags": ["cleopatra", "timeline", "perspective"]
+            },
+            {
+              "id": "egyptian-makeup",
+              "title": "Ancient Egyptian Makeup",
+              "content": "Ancient Egyptians wore makeup not just for beauty, but for protection. Their kohl eyeliner contained lead compounds that helped prevent eye infections by killing harmful bacteria.",
+              "tags": ["makeup", "health", "protection"]
+            }
+          ]
+        },
+        {
+          "id": "ancient-rome",
+          "title": "Ancient Rome",
+          "description": "Incredible facts about the Roman Empire and its innovations",
+          "facts": [
+            {
+              "id": "roman-concrete",
+              "title": "Roman Concrete's Secret",
+              "content": "Roman concrete is still stronger than modern concrete after 2,000 years. They used volcanic ash which creates a chemical reaction that actually makes the concrete stronger over time!",
+              "tags": ["concrete", "engineering", "durability"]
+            },
+            {
+              "id": "colosseum-events",
+              "title": "The Colosseum's Naval Battles",
+              "content": "The Colosseum could be flooded to stage mock naval battles called 'naumachias'. They would fill it with water and have full-scale ship battles with real prisoners and condemned criminals.",
+              "tags": ["colosseum", "entertainment", "naval-battles"]
+            },
+            {
+              "id": "roman-roads",
+              "title": "Roman Roads' Lasting Legacy",
+              "content": "The Romans built over 250,000 miles of roads throughout their empire. Many modern European highways still follow the exact routes of ancient Roman roads built over 2,000 years ago!",
+              "tags": ["roads", "infrastructure", "legacy"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology-innovation",
+      "title": "Technology & Innovation",
+      "description": "Amazing facts about technological breakthroughs and innovations",
+      "lessons": [
+        {
+          "id": "computer-history",
+          "title": "Computer Evolution",
+          "description": "Fascinating facts about the development of computers",
+          "facts": [
+            {
+              "id": "first-computer-bug",
+              "title": "The First Computer 'Bug'",
+              "content": "The term 'computer bug' originated in 1947 when Admiral Grace Hopper found an actual moth stuck in a computer relay. She taped it to her logbook and wrote 'First actual case of bug being found.'",
+              "tags": ["bugs", "grace-hopper", "history"]
+            },
+            {
+              "id": "smartphone-power",
+              "title": "Your Phone vs. Apollo 11",
+              "content": "Your smartphone has more computing power than all of NASA had when they sent Apollo 11 to the moon. The Apollo Guidance Computer had less processing power than a modern calculator!",
+              "tags": ["smartphones", "apollo", "computing-power"]
+            },
+            {
+              "id": "internet-data",
+              "title": "Internet Data Growth",
+              "content": "Every minute, approximately 500 hours of video are uploaded to YouTube, 350,000 tweets are posted, and 4.5 million Google searches are performed. The internet processes an enormous amount of data every second!",
+              "tags": ["internet", "data", "social-media"]
+            }
+          ]
+        },
+        {
+          "id": "modern-inventions",
+          "title": "Modern Marvels",
+          "description": "Surprising facts about everyday technologies and inventions",
+          "facts": [
+            {
+              "id": "gps-relativity",
+              "title": "GPS Needs Einstein's Relativity",
+              "content": "GPS satellites must account for Einstein's theory of relativity to maintain accuracy. Without these corrections, GPS would be off by about 6 miles per day due to time dilation effects!",
+              "tags": ["gps", "relativity", "physics"]
+            },
+            {
+              "id": "microwave-invention",
+              "title": "Microwave Ovens Were an Accident",
+              "content": "Microwave ovens were invented by accident in 1945 when Percy Spencer, working on radar technology, noticed a chocolate bar in his pocket had melted from microwave radiation.",
+              "tags": ["microwave", "accident", "invention"]
+            },
+            {
+              "id": "velcro-nature",
+              "title": "Velcro Inspired by Nature",
+              "content": "Velcro was invented after Swiss engineer George de Mestral examined burr seeds under a microscope and noticed their tiny hooks. He spent 8 years developing the first hook-and-loop fastener!",
+              "tags": ["velcro", "biomimicry", "nature"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "animal-kingdom",
+      "title": "Animal Kingdom",
+      "description": "Incredible facts about animals and their amazing abilities",
+      "lessons": [
+        {
+          "id": "animal-superpowers",
+          "title": "Animal Superpowers",
+          "description": "Amazing abilities that animals possess",
+          "facts": [
+            {
+              "id": "mantis-shrimp-vision",
+              "title": "Mantis Shrimp's Incredible Vision",
+              "content": "Mantis shrimp can see 16 different types of color receptors (humans have 3), can see ultraviolet and polarized light, and can move their eyes independently. They have the most complex vision system in the animal kingdom!",
+              "tags": ["mantis-shrimp", "vision", "color"]
+            },
+            {
+              "id": "elephant-memory",
+              "title": "Elephants Never Forget",
+              "content": "Elephants have exceptional memories and can remember other elephants they haven't seen for decades. They even show signs of grief and have been observed 'mourning' at the bones of deceased elephants.",
+              "tags": ["elephants", "memory", "emotions"]
+            },
+            {
+              "id": "dolphin-names",
+              "title": "Dolphins Have Names",
+              "content": "Dolphins develop unique signature whistles that function like names. They use these 'names' to call to each other, and mothers teach their calves their unique whistle within their first year of life.",
+              "tags": ["dolphins", "communication", "intelligence"]
+            }
+          ]
+        },
+        {
+          "id": "extreme-animals",
+          "title": "Animals in Extreme Conditions",
+          "description": "How animals survive in the most challenging environments",
+          "facts": [
+            {
+              "id": "tardigrade-survival",
+              "title": "Tardigrades: The Ultimate Survivors",
+              "content": "Tardigrades (water bears) can survive in space, extreme temperatures from -458°F to 300°F, radiation 1,000 times stronger than what would kill humans, and can go 30 years without food or water!",
+              "tags": ["tardigrades", "survival", "extremes"]
+            },
+            {
+              "id": "arctic-fox-adaptation",
+              "title": "Arctic Fox's Amazing Adaptation",
+              "content": "Arctic foxes can survive temperatures as low as -58°F (-50°C). Their incredibly efficient circulation system allows them to maintain a core body temperature while their paw pads can be 90°F colder!",
+              "tags": ["arctic-fox", "adaptation", "temperature"]
+            },
+            {
+              "id": "camel-water-storage",
+              "title": "Camels Don't Store Water in Humps",
+              "content": "Contrary to popular belief, camels don't store water in their humps - they store fat! They can actually rehydrate faster than any other mammal, drinking up to 40 gallons in just 10 minutes.",
+              "tags": ["camels", "adaptation", "desert"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

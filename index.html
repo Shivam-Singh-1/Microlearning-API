@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microlearning - Random Facts</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <button class="theme-toggle" onclick="toggleTheme()" id="theme-toggle">
+      <span id="theme-icon">🌙</span>
+      <span id="theme-text">Dark</span>
+    </button>
+
+    <div class="container">
+      <div class="header">
+        <h1>🧠 Microlearning</h1>
+        <p>Discover fascinating facts from your favorite topics</p>
+      </div>
+
+      <div class="main-card fade-in">
+        <div class="controls">
+          <div class="dropdown-container">
+            <select class="dropdown" id="topicSelect" title="dropdown-menu">
+              <option value="">Select a topic...</option>
+            </select>
+          </div>
+          <button class="btn btn-primary" onclick="getRandomFact()">
+            🎲 Random Fact
+          </button>
+          <button class="btn btn-secondary" onclick="getFactFromTopic()">
+            📚 Topic Fact
+          </button>
+        </div>
+
+        <div class="fact-container" id="factContainer">
+          <div class="empty-state">
+            <div class="icon">🎯</div>
+            <p>
+              Select a topic and click "Topic Fact" or get a "Random Fact" from
+              any topic!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
